@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "RoyYTON.aternos.me",
+    "ip": "RoyYTON.aternos.me:57057",
     "port": 57057,
     "version": "",
     "try-creative": false
